@@ -1,2 +1,2 @@
-# Configuraciones Config Serve
+# Spring Cloud
 Configuraciones de las propiedades
